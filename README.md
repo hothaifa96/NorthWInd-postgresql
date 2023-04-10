@@ -1,1 +1,2 @@
-# NorthWInd-postgresql
+# NorthWInd-postgreSQL
+Northwind database for Postgres
